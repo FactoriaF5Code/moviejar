@@ -7,6 +7,7 @@ import jakarta.persistence.*
 data class Movie(
     var title: String,
     var director: String,
+    var posterUrl: String,
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     var id: Long? = null
