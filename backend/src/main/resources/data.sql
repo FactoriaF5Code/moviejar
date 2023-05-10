@@ -1,8 +1,6 @@
 insert into movies(title, director, poster_url)
 values ('Avatar', 'James Cameron',
         'http://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg'),
-       ('I Am Legend', 'Francis Lawrence',
-        'http://ia.media-imdb.com/images/M/MV5BMTU4NzMyNDk1OV5BMl5BanBnXkFtZTcwOTEwMzU1MQ@@._V1_SX300.jpg'),
        ('300', 'Zack Snyder',
         'http://ia.media-imdb.com/images/M/MV5BMjAzNTkzNjcxNl5BMl5BanBnXkFtZTYwNDA4NjE3._V1_SX300.jpg'),
        ('The Avengers', 'Joss Whedon',
